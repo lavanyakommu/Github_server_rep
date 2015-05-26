@@ -1,7 +1,7 @@
 <suite name = "yahoo_suite">
 	<test name = "test1">
 		<classes>
-			<class name = "P1.Test_prog" />
+			<class name = "P5.Test_prog" />
 				<methods>
 			  		<include name = "run_method" />
 				</methods>
